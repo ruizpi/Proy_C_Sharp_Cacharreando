@@ -1,0 +1,8 @@
+C:\Proyectos_C#\AuthTesting\AuthTesting\bin\Debug\AuthTesting.exe.config
+C:\Proyectos_C#\AuthTesting\AuthTesting\bin\Debug\AuthTesting.exe
+C:\Proyectos_C#\AuthTesting\AuthTesting\bin\Debug\AuthTesting.pdb
+C:\Proyectos_C#\AuthTesting\AuthTesting\obj\Debug\AuthTesting.csproj.AssemblyReference.cache
+C:\Proyectos_C#\AuthTesting\AuthTesting\obj\Debug\AuthTesting.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos_C#\AuthTesting\AuthTesting\obj\Debug\AuthTesting.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\AuthTesting\AuthTesting\obj\Debug\AuthTesting.exe
+C:\Proyectos_C#\AuthTesting\AuthTesting\obj\Debug\AuthTesting.pdb

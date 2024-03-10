@@ -1,0 +1,11 @@
+C:\Proyectos_C#\CONECTAR2\CONECTAR2\bin\Debug\CONECTAR2.exe.config
+C:\Proyectos_C#\CONECTAR2\CONECTAR2\bin\Debug\CONECTAR2.exe
+C:\Proyectos_C#\CONECTAR2\CONECTAR2\bin\Debug\CONECTAR2.pdb
+C:\Proyectos_C#\CONECTAR2\CONECTAR2\obj\Debug\CONECTAR2.csproj.AssemblyReference.cache
+C:\Proyectos_C#\CONECTAR2\CONECTAR2\obj\Debug\CONECTAR2.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos_C#\CONECTAR2\CONECTAR2\obj\Debug\CONECTAR2.Form1.resources
+C:\Proyectos_C#\CONECTAR2\CONECTAR2\obj\Debug\CONECTAR2.Properties.Resources.resources
+C:\Proyectos_C#\CONECTAR2\CONECTAR2\obj\Debug\CONECTAR2.csproj.GenerateResource.cache
+C:\Proyectos_C#\CONECTAR2\CONECTAR2\obj\Debug\CONECTAR2.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\CONECTAR2\CONECTAR2\obj\Debug\CONECTAR2.exe
+C:\Proyectos_C#\CONECTAR2\CONECTAR2\obj\Debug\CONECTAR2.pdb

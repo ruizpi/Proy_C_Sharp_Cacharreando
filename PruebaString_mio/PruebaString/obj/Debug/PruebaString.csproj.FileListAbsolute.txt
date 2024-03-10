@@ -1,0 +1,8 @@
+C:\Proyectos_C#\PruebaString\PruebaString\bin\Debug\PruebaString.exe.config
+C:\Proyectos_C#\PruebaString\PruebaString\bin\Debug\PruebaString.exe
+C:\Proyectos_C#\PruebaString\PruebaString\bin\Debug\PruebaString.pdb
+C:\Proyectos_C#\PruebaString\PruebaString\obj\Debug\PruebaString.csproj.AssemblyReference.cache
+C:\Proyectos_C#\PruebaString\PruebaString\obj\Debug\PruebaString.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos_C#\PruebaString\PruebaString\obj\Debug\PruebaString.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\PruebaString\PruebaString\obj\Debug\PruebaString.exe
+C:\Proyectos_C#\PruebaString\PruebaString\obj\Debug\PruebaString.pdb

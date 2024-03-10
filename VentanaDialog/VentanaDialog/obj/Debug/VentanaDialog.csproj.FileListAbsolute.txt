@@ -1,0 +1,11 @@
+C:\Proyectos_C#\VentanaDialog\VentanaDialog\bin\Debug\VentanaDialog.exe.config
+C:\Proyectos_C#\VentanaDialog\VentanaDialog\bin\Debug\VentanaDialog.exe
+C:\Proyectos_C#\VentanaDialog\VentanaDialog\bin\Debug\VentanaDialog.pdb
+C:\Proyectos_C#\VentanaDialog\VentanaDialog\obj\Debug\VentanaDialog.csproj.AssemblyReference.cache
+C:\Proyectos_C#\VentanaDialog\VentanaDialog\obj\Debug\VentanaDialog.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos_C#\VentanaDialog\VentanaDialog\obj\Debug\VentanaDialog.Form1.resources
+C:\Proyectos_C#\VentanaDialog\VentanaDialog\obj\Debug\VentanaDialog.Properties.Resources.resources
+C:\Proyectos_C#\VentanaDialog\VentanaDialog\obj\Debug\VentanaDialog.csproj.GenerateResource.cache
+C:\Proyectos_C#\VentanaDialog\VentanaDialog\obj\Debug\VentanaDialog.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\VentanaDialog\VentanaDialog\obj\Debug\VentanaDialog.exe
+C:\Proyectos_C#\VentanaDialog\VentanaDialog\obj\Debug\VentanaDialog.pdb

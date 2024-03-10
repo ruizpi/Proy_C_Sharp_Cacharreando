@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="PuntodeVentaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <!--Errores durante la generación:
+advertencia 6002: La tabla o vista 'PuntodeVenta.dbo.Clientes' no tiene definida ninguna clave principal. Se ha inferido la clave y la definición se creado como una vista o tabla de solo lectura.-->
+        <EntityType Name="Clientes">
+          <Key>
+            <PropertyRef Name="ID" />
+            <PropertyRef Name="NombreCliente" />
+            <PropertyRef Name="ApellidoCliente" />
+            <PropertyRef Name="Telefono" />
+            <PropertyRef Name="CorreoC" />
+            <PropertyRef Name="CodigoCliente" />
+            <PropertyRef Name="CantCompras" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="NombreCliente" Type="nvarchar" MaxLength="250" Nullable="false" />
+          <Property Name="ApellidoCliente" Type="nvarchar" MaxLength="250" Nullable="false" />
+          <Property Name="Telefono" Type="nvarchar" MaxLength="250" Nullable="false" />
+          <Property Name="CorreoC" Type="nvarchar" MaxLength="250" Nullable="false" />
+          <Property Name="CodigoCliente" Type="nvarchar" MaxLength="100" Nullable="false" />
+          <Property Name="Descuento" Type="float" />
+          <Property Name="CantCompras" Type="int" Nullable="false" />
+        </EntityType>
+        <!--Errores durante la generación:
+advertencia 6002: La tabla o vista 'PuntodeVenta.dbo.Facturacion' no tiene definida ninguna clave principal. Se ha inferido la clave y la definición se creado como una vista o tabla de solo lectura.-->
+        <EntityType Name="Facturacion">
+          <Key>
+            <PropertyRef Name="Id" />
+            <PropertyRef Name="Codigo" />
+            <PropertyRef Name="Producto" />
+            <PropertyRef Name="Precioxunidad" />
+            <PropertyRef Name="Cantidad" />
+            <PropertyRef Name="Cliente" />
+            <PropertyRef Name="CodigoCliente" />
+            <PropertyRef Name="DescuentoCliente" />
+            <PropertyRef Name="Total" />
+            <PropertyRef Name="PrecioTotal" />
+            <PropertyRef Name="Factura" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Codigo" Type="nvarchar" MaxLength="250" Nullable="false" />
+          <Property Name="Producto" Type="nvarchar" MaxLength="250" Nullable="false" />
+          <Property Name="Precioxunidad" Type="float" Nullable="false" />
+          <Property Name="Cantidad" Type="int" Nullable="false" />
+          <Property Name="Cliente" Type="nvarchar" MaxLength="250" Nullable="false" />
+          <Property Name="CodigoCliente" Type="nvarchar" MaxLength="250" Nullable="false" />
+          <Property Name="DescuentoCliente" Type="float" Nullable="false" />
+          <Property Name="Total" Type="float" Nullable="false" />
+          <Property Name="PrecioTotal" Type="float" StoreGeneratedPattern="Computed" Nullable="false" />
+          <Property Name="Factura" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Inventario">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Producto" Type="nvarchar" MaxLength="250" Nullable="false" />
+          <Property Name="Categoria" Type="nvarchar" MaxLength="250" Nullable="false" />
+          <Property Name="Precio" Type="float" Nullable="false" />
+          <Property Name="Cantidad" Type="int" Nullable="false" />
+          <Property Name="Codigo" Type="nvarchar" MaxLength="250" />
+        </EntityType>
+        <EntityType Name="Persona">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="nombre" Type="nvarchar" MaxLength="250" />
+          <Property Name="apellidos" Type="nvarchar" MaxLength="250" />
+          <Property Name="dni" Type="nvarchar" MaxLength="250" />
+          <Property Name="telefono" Type="nvarchar" MaxLength="250" />
+          <Property Name="usuario" Type="nvarchar" MaxLength="250" />
+          <Property Name="contrasena" Type="nvarchar" MaxLength="250" />
+        </EntityType>
+        <EntityContainer Name="PuntodeVentaModelStoreContainer">
+          <EntitySet Name="Inventario" EntityType="Self.Inventario" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Persona" EntityType="Self.Persona" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Clientes" EntityType="Self.Clientes" store:Type="Tables" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [Clientes].[ID] AS [ID], 
+    [Clientes].[NombreCliente] AS [NombreCliente], 
+    [Clientes].[ApellidoCliente] AS [ApellidoCliente], 
+    [Clientes].[Telefono] AS [Telefono], 
+    [Clientes].[CorreoC] AS [CorreoC], 
+    [Clientes].[CodigoCliente] AS [CodigoCliente], 
+    [Clientes].[Descuento] AS [Descuento], 
+    [Clientes].[CantCompras] AS [CantCompras]
+    FROM [dbo].[Clientes] AS [Clientes]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="Facturacion" EntityType="Self.Facturacion" store:Type="Tables" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [Facturacion].[Id] AS [Id], 
+    [Facturacion].[Codigo] AS [Codigo], 
+    [Facturacion].[Producto] AS [Producto], 
+    [Facturacion].[Precioxunidad] AS [Precioxunidad], 
+    [Facturacion].[Cantidad] AS [Cantidad], 
+    [Facturacion].[Cliente] AS [Cliente], 
+    [Facturacion].[CodigoCliente] AS [CodigoCliente], 
+    [Facturacion].[DescuentoCliente] AS [DescuentoCliente], 
+    [Facturacion].[Total] AS [Total], 
+    [Facturacion].[PrecioTotal] AS [PrecioTotal], 
+    [Facturacion].[Factura] AS [Factura]
+    FROM [dbo].[Facturacion] AS [Facturacion]</DefiningQuery>
+          </EntitySet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="PuntodeVentaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Inventario">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Producto" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Categoria" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Precio" Type="Double" Nullable="false" />
+          <Property Name="Cantidad" Type="Int32" Nullable="false" />
+          <Property Name="Codigo" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="Persona">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="nombre" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+          <Property Name="apellidos" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+          <Property Name="dni" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+          <Property Name="telefono" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+          <Property Name="usuario" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+          <Property Name="contrasena" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="Clientes">
+          <Key>
+            <PropertyRef Name="ID" />
+            <PropertyRef Name="NombreCliente" />
+            <PropertyRef Name="ApellidoCliente" />
+            <PropertyRef Name="Telefono" />
+            <PropertyRef Name="CorreoC" />
+            <PropertyRef Name="CodigoCliente" />
+            <PropertyRef Name="CantCompras" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="NombreCliente" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="ApellidoCliente" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Telefono" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CorreoC" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CodigoCliente" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Descuento" Type="Double" />
+          <Property Name="CantCompras" Type="Int32" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Facturacion">
+          <Key>
+            <PropertyRef Name="Id" />
+            <PropertyRef Name="Codigo" />
+            <PropertyRef Name="Producto" />
+            <PropertyRef Name="Precioxunidad" />
+            <PropertyRef Name="Cantidad" />
+            <PropertyRef Name="Cliente" />
+            <PropertyRef Name="CodigoCliente" />
+            <PropertyRef Name="DescuentoCliente" />
+            <PropertyRef Name="Total" />
+            <PropertyRef Name="PrecioTotal" />
+            <PropertyRef Name="Factura" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Codigo" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Producto" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Precioxunidad" Type="Double" Nullable="false" />
+          <Property Name="Cantidad" Type="Int32" Nullable="false" />
+          <Property Name="Cliente" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CodigoCliente" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="DescuentoCliente" Type="Double" Nullable="false" />
+          <Property Name="Total" Type="Double" Nullable="false" />
+          <Property Name="PrecioTotal" Type="Double" Nullable="false" annotation:StoreGeneratedPattern="Computed" />
+          <Property Name="Factura" Type="Int32" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="PuntodeVentaEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Inventario" EntityType="Self.Inventario" />
+          <EntitySet Name="Persona" EntityType="Self.Persona" />
+          <EntitySet Name="Clientes" EntityType="Self.Clientes" />
+          <EntitySet Name="Facturacion" EntityType="Self.Facturacion" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="PuntodeVentaModelStoreContainer" CdmEntityContainer="PuntodeVentaEntities">
+          <EntitySetMapping Name="Inventario">
+            <EntityTypeMapping TypeName="PuntodeVentaModel.Inventario">
+              <MappingFragment StoreEntitySet="Inventario">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Producto" ColumnName="Producto" />
+                <ScalarProperty Name="Categoria" ColumnName="Categoria" />
+                <ScalarProperty Name="Precio" ColumnName="Precio" />
+                <ScalarProperty Name="Cantidad" ColumnName="Cantidad" />
+                <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Persona">
+            <EntityTypeMapping TypeName="PuntodeVentaModel.Persona">
+              <MappingFragment StoreEntitySet="Persona">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="nombre" ColumnName="nombre" />
+                <ScalarProperty Name="apellidos" ColumnName="apellidos" />
+                <ScalarProperty Name="dni" ColumnName="dni" />
+                <ScalarProperty Name="telefono" ColumnName="telefono" />
+                <ScalarProperty Name="usuario" ColumnName="usuario" />
+                <ScalarProperty Name="contrasena" ColumnName="contrasena" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Clientes">
+            <EntityTypeMapping TypeName="PuntodeVentaModel.Clientes">
+              <MappingFragment StoreEntitySet="Clientes">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="NombreCliente" ColumnName="NombreCliente" />
+                <ScalarProperty Name="ApellidoCliente" ColumnName="ApellidoCliente" />
+                <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+                <ScalarProperty Name="CorreoC" ColumnName="CorreoC" />
+                <ScalarProperty Name="CodigoCliente" ColumnName="CodigoCliente" />
+                <ScalarProperty Name="Descuento" ColumnName="Descuento" />
+                <ScalarProperty Name="CantCompras" ColumnName="CantCompras" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Facturacion">
+            <EntityTypeMapping TypeName="PuntodeVentaModel.Facturacion">
+              <MappingFragment StoreEntitySet="Facturacion">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+                <ScalarProperty Name="Producto" ColumnName="Producto" />
+                <ScalarProperty Name="Precioxunidad" ColumnName="Precioxunidad" />
+                <ScalarProperty Name="Cantidad" ColumnName="Cantidad" />
+                <ScalarProperty Name="Cliente" ColumnName="Cliente" />
+                <ScalarProperty Name="CodigoCliente" ColumnName="CodigoCliente" />
+                <ScalarProperty Name="DescuentoCliente" ColumnName="DescuentoCliente" />
+                <ScalarProperty Name="Total" ColumnName="Total" />
+                <ScalarProperty Name="PrecioTotal" ColumnName="PrecioTotal" />
+                <ScalarProperty Name="Factura" ColumnName="Factura" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Ninguno" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

@@ -1,0 +1,15 @@
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa de datos\bin\Debug\net4.7.2\Capa de datos.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa de datos\bin\Debug\net4.7.2\Capa de datos.pdb
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa de datos\bin\Debug\net4.7.2\System.Data.SqlClient.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa de datos\bin\Debug\net4.7.2\Capa Criptografica.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa de datos\bin\Debug\net4.7.2\Capa Entidad.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa de datos\bin\Debug\net4.7.2\Capa Criptografica.pdb
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa de datos\bin\Debug\net4.7.2\Capa Entidad.pdb
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa de datos\obj\Debug\net4.7.2\Capa de datos.csproj.AssemblyReference.cache
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa de datos\obj\Debug\net4.7.2\Capa de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa de datos\obj\Debug\net4.7.2\Capa de datos.AssemblyInfoInputs.cache
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa de datos\obj\Debug\net4.7.2\Capa de datos.AssemblyInfo.cs
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa de datos\obj\Debug\net4.7.2\Capa de datos.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa de datos\obj\Debug\net4.7.2\Capa de datos.csproj.CopyComplete
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa de datos\obj\Debug\net4.7.2\Capa de datos.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa de datos\obj\Debug\net4.7.2\Capa de datos.pdb

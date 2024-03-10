@@ -1,0 +1,11 @@
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Entidad\bin\Debug\net4.7.2\Capa Entidad.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Entidad\bin\Debug\net4.7.2\Capa Entidad.pdb
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Entidad\bin\Debug\net4.7.2\System.Data.SqlClient.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Entidad\obj\Debug\net4.7.2\Capa Entidad.csproj.AssemblyReference.cache
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Entidad\obj\Debug\net4.7.2\Capa Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Entidad\obj\Debug\net4.7.2\Capa Entidad.AssemblyInfoInputs.cache
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Entidad\obj\Debug\net4.7.2\Capa Entidad.AssemblyInfo.cs
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Entidad\obj\Debug\net4.7.2\Capa Entidad.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Entidad\obj\Debug\net4.7.2\Capa Entidad.csproj.CopyComplete
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Entidad\obj\Debug\net4.7.2\Capa Entidad.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Entidad\obj\Debug\net4.7.2\Capa Entidad.pdb

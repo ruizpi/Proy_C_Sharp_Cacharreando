@@ -1,0 +1,8 @@
+C:\Proyectos_C#\Curso_LINQ_03\Curso_LINQ_03\obj\Debug\Curso_LINQ_03.csproj.AssemblyReference.cache
+C:\Proyectos_C#\Curso_LINQ_03\Curso_LINQ_03\obj\Debug\Curso_LINQ_03.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos_C#\Curso_LINQ_03\Curso_LINQ_03\obj\Debug\Curso_LINQ_03.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\Curso_LINQ_03\Curso_LINQ_03\bin\Debug\Curso_LINQ_03.exe.config
+C:\Proyectos_C#\Curso_LINQ_03\Curso_LINQ_03\bin\Debug\Curso_LINQ_03.exe
+C:\Proyectos_C#\Curso_LINQ_03\Curso_LINQ_03\bin\Debug\Curso_LINQ_03.pdb
+C:\Proyectos_C#\Curso_LINQ_03\Curso_LINQ_03\obj\Debug\Curso_LINQ_03.exe
+C:\Proyectos_C#\Curso_LINQ_03\Curso_LINQ_03\obj\Debug\Curso_LINQ_03.pdb

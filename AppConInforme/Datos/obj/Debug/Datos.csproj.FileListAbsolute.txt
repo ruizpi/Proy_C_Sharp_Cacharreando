@@ -1,0 +1,12 @@
+C:\Proyectos_C#\AppConInforme\Datos\bin\Debug\Datos.dll.config
+C:\Proyectos_C#\AppConInforme\Datos\bin\Debug\Datos.dll
+C:\Proyectos_C#\AppConInforme\Datos\bin\Debug\Datos.pdb
+C:\Proyectos_C#\AppConInforme\Datos\bin\Debug\EntityFramework.dll
+C:\Proyectos_C#\AppConInforme\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proyectos_C#\AppConInforme\Datos\bin\Debug\EntityFramework.xml
+C:\Proyectos_C#\AppConInforme\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proyectos_C#\AppConInforme\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Proyectos_C#\AppConInforme\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\AppConInforme\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Proyectos_C#\AppConInforme\Datos\obj\Debug\Datos.dll
+C:\Proyectos_C#\AppConInforme\Datos\obj\Debug\Datos.pdb

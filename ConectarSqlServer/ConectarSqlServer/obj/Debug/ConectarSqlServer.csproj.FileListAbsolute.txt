@@ -1,0 +1,11 @@
+C:\Proyectos_C#\ConectarSqlServer\ConectarSqlServer\bin\Debug\ConectarSqlServer.exe.config
+C:\Proyectos_C#\ConectarSqlServer\ConectarSqlServer\bin\Debug\ConectarSqlServer.exe
+C:\Proyectos_C#\ConectarSqlServer\ConectarSqlServer\bin\Debug\ConectarSqlServer.pdb
+C:\Proyectos_C#\ConectarSqlServer\ConectarSqlServer\obj\Debug\ConectarSqlServer.csproj.AssemblyReference.cache
+C:\Proyectos_C#\ConectarSqlServer\ConectarSqlServer\obj\Debug\ConectarSqlServer.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos_C#\ConectarSqlServer\ConectarSqlServer\obj\Debug\ConectarSqlServer.Form1.resources
+C:\Proyectos_C#\ConectarSqlServer\ConectarSqlServer\obj\Debug\ConectarSqlServer.Properties.Resources.resources
+C:\Proyectos_C#\ConectarSqlServer\ConectarSqlServer\obj\Debug\ConectarSqlServer.csproj.GenerateResource.cache
+C:\Proyectos_C#\ConectarSqlServer\ConectarSqlServer\obj\Debug\ConectarSqlServer.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\ConectarSqlServer\ConectarSqlServer\obj\Debug\ConectarSqlServer.exe
+C:\Proyectos_C#\ConectarSqlServer\ConectarSqlServer\obj\Debug\ConectarSqlServer.pdb

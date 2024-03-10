@@ -1,0 +1,19 @@
+﻿<Window x:Class="CREA_USER_CONTROL.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:uc="clr-namespace:CREA_USER_CONTROL.UserControls" 
+        xmlns:local="clr-namespace:CREA_USER_CONTROL"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <uc:LimitInputUserControl Grid.Row="0" Title="Introduzca el nombre:" MaxLength="30"/>
+    </Grid>
+   
+
+</Window>

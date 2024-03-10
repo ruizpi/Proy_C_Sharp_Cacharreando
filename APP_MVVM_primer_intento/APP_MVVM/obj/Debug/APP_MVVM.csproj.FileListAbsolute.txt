@@ -1,0 +1,17 @@
+C:\Proyectos_C#\APP_MVVM\APP_MVVM\bin\Debug\APP_MVVM.exe.config
+C:\Proyectos_C#\APP_MVVM\APP_MVVM\bin\Debug\APP_MVVM.exe
+C:\Proyectos_C#\APP_MVVM\APP_MVVM\bin\Debug\APP_MVVM.pdb
+C:\Proyectos_C#\APP_MVVM\APP_MVVM\obj\Debug\APP_MVVM.csproj.AssemblyReference.cache
+C:\Proyectos_C#\APP_MVVM\APP_MVVM\obj\Debug\APP_MVVM.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos_C#\APP_MVVM\APP_MVVM\obj\Debug\Views\MainWindow.g.cs
+C:\Proyectos_C#\APP_MVVM\APP_MVVM\obj\Debug\App.g.cs
+C:\Proyectos_C#\APP_MVVM\APP_MVVM\obj\Debug\APP_MVVM_MarkupCompile.cache
+C:\Proyectos_C#\APP_MVVM\APP_MVVM\obj\Debug\APP_MVVM_MarkupCompile.lref
+C:\Proyectos_C#\APP_MVVM\APP_MVVM\obj\Debug\Views\MainWindow.baml
+C:\Proyectos_C#\APP_MVVM\APP_MVVM\obj\Debug\APP_MVVM.g.resources
+C:\Proyectos_C#\APP_MVVM\APP_MVVM\obj\Debug\APP_MVVM.Properties.Resources.resources
+C:\Proyectos_C#\APP_MVVM\APP_MVVM\obj\Debug\APP_MVVM.csproj.GenerateResource.cache
+C:\Proyectos_C#\APP_MVVM\APP_MVVM\obj\Debug\APP_MVVM.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\APP_MVVM\APP_MVVM\obj\Debug\APP_MVVM.exe
+C:\Proyectos_C#\APP_MVVM\APP_MVVM\obj\Debug\APP_MVVM.pdb
+C:\Proyectos_C#\APP_MVVM\APP_MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs

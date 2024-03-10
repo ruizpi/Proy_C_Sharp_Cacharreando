@@ -1,0 +1,8 @@
+C:\Proyectos_C#\borrar\Borrar\bin\Debug\Borrar.exe.config
+C:\Proyectos_C#\borrar\Borrar\bin\Debug\Borrar.exe
+C:\Proyectos_C#\borrar\Borrar\bin\Debug\Borrar.pdb
+C:\Proyectos_C#\borrar\Borrar\obj\Debug\Borrar.csproj.AssemblyReference.cache
+C:\Proyectos_C#\borrar\Borrar\obj\Debug\Borrar.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos_C#\borrar\Borrar\obj\Debug\Borrar.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\borrar\Borrar\obj\Debug\Borrar.exe
+C:\Proyectos_C#\borrar\Borrar\obj\Debug\Borrar.pdb

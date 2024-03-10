@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVM_APP_DESPUES_DEL_CAMPING", "MVVM_APP_DESPUES_DEL_CAMPING\MVVM_APP_DESPUES_DEL_CAMPING.csproj", "{A039BE59-9CE7-41ED-8A9C-2B5EF8824C6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A039BE59-9CE7-41ED-8A9C-2B5EF8824C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A039BE59-9CE7-41ED-8A9C-2B5EF8824C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A039BE59-9CE7-41ED-8A9C-2B5EF8824C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A039BE59-9CE7-41ED-8A9C-2B5EF8824C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B800B27-5DD7-4E1D-A069-181DF141842C}
+	EndGlobalSection
+EndGlobal

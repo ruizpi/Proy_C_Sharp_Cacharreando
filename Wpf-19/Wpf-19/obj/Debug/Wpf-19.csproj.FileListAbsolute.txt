@@ -1,0 +1,16 @@
+C:\Proyectos_C#\Wpf-19\Wpf-19\bin\Debug\Wpf-19.exe.config
+C:\Proyectos_C#\Wpf-19\Wpf-19\bin\Debug\Wpf-19.exe
+C:\Proyectos_C#\Wpf-19\Wpf-19\bin\Debug\Wpf-19.pdb
+C:\Proyectos_C#\Wpf-19\Wpf-19\obj\Debug\Wpf-19.csproj.AssemblyReference.cache
+C:\Proyectos_C#\Wpf-19\Wpf-19\obj\Debug\Wpf-19.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos_C#\Wpf-19\Wpf-19\obj\Debug\MainWindow.g.cs
+C:\Proyectos_C#\Wpf-19\Wpf-19\obj\Debug\App.g.cs
+C:\Proyectos_C#\Wpf-19\Wpf-19\obj\Debug\Wpf-19_MarkupCompile.cache
+C:\Proyectos_C#\Wpf-19\Wpf-19\obj\Debug\Wpf-19_MarkupCompile.lref
+C:\Proyectos_C#\Wpf-19\Wpf-19\obj\Debug\MainWindow.baml
+C:\Proyectos_C#\Wpf-19\Wpf-19\obj\Debug\Wpf-19.g.resources
+C:\Proyectos_C#\Wpf-19\Wpf-19\obj\Debug\Wpf_19.Properties.Resources.resources
+C:\Proyectos_C#\Wpf-19\Wpf-19\obj\Debug\Wpf-19.csproj.GenerateResource.cache
+C:\Proyectos_C#\Wpf-19\Wpf-19\obj\Debug\Wpf-19.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\Wpf-19\Wpf-19\obj\Debug\Wpf-19.exe
+C:\Proyectos_C#\Wpf-19\Wpf-19\obj\Debug\Wpf-19.pdb

@@ -1,0 +1,14 @@
+C:\Proyectos_C#\PruebasString\bin\Debug\netcoreapp3.1\PruebasString.exe
+C:\Proyectos_C#\PruebasString\bin\Debug\netcoreapp3.1\PruebasString.deps.json
+C:\Proyectos_C#\PruebasString\bin\Debug\netcoreapp3.1\PruebasString.runtimeconfig.json
+C:\Proyectos_C#\PruebasString\bin\Debug\netcoreapp3.1\PruebasString.runtimeconfig.dev.json
+C:\Proyectos_C#\PruebasString\bin\Debug\netcoreapp3.1\PruebasString.dll
+C:\Proyectos_C#\PruebasString\bin\Debug\netcoreapp3.1\PruebasString.pdb
+C:\Proyectos_C#\PruebasString\obj\Debug\netcoreapp3.1\PruebasString.csproj.AssemblyReference.cache
+C:\Proyectos_C#\PruebasString\obj\Debug\netcoreapp3.1\PruebasString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos_C#\PruebasString\obj\Debug\netcoreapp3.1\PruebasString.AssemblyInfoInputs.cache
+C:\Proyectos_C#\PruebasString\obj\Debug\netcoreapp3.1\PruebasString.AssemblyInfo.cs
+C:\Proyectos_C#\PruebasString\obj\Debug\netcoreapp3.1\PruebasString.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\PruebasString\obj\Debug\netcoreapp3.1\PruebasString.dll
+C:\Proyectos_C#\PruebasString\obj\Debug\netcoreapp3.1\PruebasString.pdb
+C:\Proyectos_C#\PruebasString\obj\Debug\netcoreapp3.1\PruebasString.genruntimeconfig.cache

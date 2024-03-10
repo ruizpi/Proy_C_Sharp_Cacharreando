@@ -1,0 +1,16 @@
+C:\Proyectos_C#\wpf-07\wpf-07\bin\Debug\wpf-07.exe.config
+C:\Proyectos_C#\wpf-07\wpf-07\bin\Debug\wpf-07.exe
+C:\Proyectos_C#\wpf-07\wpf-07\bin\Debug\wpf-07.pdb
+C:\Proyectos_C#\wpf-07\wpf-07\obj\Debug\wpf-07.csproj.AssemblyReference.cache
+C:\Proyectos_C#\wpf-07\wpf-07\obj\Debug\wpf-07.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos_C#\wpf-07\wpf-07\obj\Debug\MainWindow.g.cs
+C:\Proyectos_C#\wpf-07\wpf-07\obj\Debug\App.g.cs
+C:\Proyectos_C#\wpf-07\wpf-07\obj\Debug\wpf-07_MarkupCompile.cache
+C:\Proyectos_C#\wpf-07\wpf-07\obj\Debug\wpf-07_MarkupCompile.lref
+C:\Proyectos_C#\wpf-07\wpf-07\obj\Debug\MainWindow.baml
+C:\Proyectos_C#\wpf-07\wpf-07\obj\Debug\wpf-07.g.resources
+C:\Proyectos_C#\wpf-07\wpf-07\obj\Debug\wpf_07.Properties.Resources.resources
+C:\Proyectos_C#\wpf-07\wpf-07\obj\Debug\wpf-07.csproj.GenerateResource.cache
+C:\Proyectos_C#\wpf-07\wpf-07\obj\Debug\wpf-07.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\wpf-07\wpf-07\obj\Debug\wpf-07.exe
+C:\Proyectos_C#\wpf-07\wpf-07\obj\Debug\wpf-07.pdb

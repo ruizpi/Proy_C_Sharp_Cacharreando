@@ -1,0 +1,8 @@
+C:\Proyectos_C#\APP_DELEGADO6\APP_DELEGADO6\bin\Debug\APP_DELEGADO6.exe.config
+C:\Proyectos_C#\APP_DELEGADO6\APP_DELEGADO6\bin\Debug\APP_DELEGADO6.exe
+C:\Proyectos_C#\APP_DELEGADO6\APP_DELEGADO6\bin\Debug\APP_DELEGADO6.pdb
+C:\Proyectos_C#\APP_DELEGADO6\APP_DELEGADO6\obj\Debug\APP_DELEGADO6.csproj.AssemblyReference.cache
+C:\Proyectos_C#\APP_DELEGADO6\APP_DELEGADO6\obj\Debug\APP_DELEGADO6.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos_C#\APP_DELEGADO6\APP_DELEGADO6\obj\Debug\APP_DELEGADO6.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\APP_DELEGADO6\APP_DELEGADO6\obj\Debug\APP_DELEGADO6.exe
+C:\Proyectos_C#\APP_DELEGADO6\APP_DELEGADO6\obj\Debug\APP_DELEGADO6.pdb

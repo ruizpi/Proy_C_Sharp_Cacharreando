@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa Presentacion", "PuntoDeVenta_Completo_Ago2023\Capa Presentacion.csproj", "{B3D65C1B-9FCB-4B8C-8BF4-A2BCE76EE355}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{1159D106-4907-4D2D-B576-4A421DFE7974}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Capa Negocio", "Capa Negocio\Capa Negocio.csproj", "{4D1C1701-E9A1-484F-A4DA-034F31E5EC88}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Capa Entidad", "Capa Entidad\Capa Entidad.csproj", "{AA05434C-E949-48F8-978D-D45E362169F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Capa de datos", "Capa de datos\Capa de datos.csproj", "{3E6D7B8C-FB16-4135-8A87-7D01FC6EA834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa Criptografica", "Capa Criptografica\Capa Criptografica.csproj", "{BDE8E95C-57C3-4ADC-9E68-308C96480965}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3D65C1B-9FCB-4B8C-8BF4-A2BCE76EE355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D65C1B-9FCB-4B8C-8BF4-A2BCE76EE355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D65C1B-9FCB-4B8C-8BF4-A2BCE76EE355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D65C1B-9FCB-4B8C-8BF4-A2BCE76EE355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D1C1701-E9A1-484F-A4DA-034F31E5EC88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D1C1701-E9A1-484F-A4DA-034F31E5EC88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D1C1701-E9A1-484F-A4DA-034F31E5EC88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1C1701-E9A1-484F-A4DA-034F31E5EC88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA05434C-E949-48F8-978D-D45E362169F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA05434C-E949-48F8-978D-D45E362169F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA05434C-E949-48F8-978D-D45E362169F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA05434C-E949-48F8-978D-D45E362169F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E6D7B8C-FB16-4135-8A87-7D01FC6EA834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6D7B8C-FB16-4135-8A87-7D01FC6EA834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E6D7B8C-FB16-4135-8A87-7D01FC6EA834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6D7B8C-FB16-4135-8A87-7D01FC6EA834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDE8E95C-57C3-4ADC-9E68-308C96480965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE8E95C-57C3-4ADC-9E68-308C96480965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE8E95C-57C3-4ADC-9E68-308C96480965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE8E95C-57C3-4ADC-9E68-308C96480965}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57EB59DE-2E1B-4067-BCE8-194A2D575F7A}
+	EndGlobalSection
+EndGlobal

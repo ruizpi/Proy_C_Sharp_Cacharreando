@@ -1,0 +1,15 @@
+C:\Proyectos_C#\EjProyNCapas\ModeloNegocios\bin\Debug\ModeloNegocios.dll.config
+C:\Proyectos_C#\EjProyNCapas\ModeloNegocios\bin\Debug\ModeloNegocios.dll
+C:\Proyectos_C#\EjProyNCapas\ModeloNegocios\bin\Debug\ModeloNegocios.pdb
+C:\Proyectos_C#\EjProyNCapas\ModeloNegocios\bin\Debug\Datos.dll
+C:\Proyectos_C#\EjProyNCapas\ModeloNegocios\bin\Debug\EntityFramework.dll
+C:\Proyectos_C#\EjProyNCapas\ModeloNegocios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proyectos_C#\EjProyNCapas\ModeloNegocios\bin\Debug\Datos.pdb
+C:\Proyectos_C#\EjProyNCapas\ModeloNegocios\bin\Debug\Datos.dll.config
+C:\Proyectos_C#\EjProyNCapas\ModeloNegocios\bin\Debug\EntityFramework.xml
+C:\Proyectos_C#\EjProyNCapas\ModeloNegocios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proyectos_C#\EjProyNCapas\ModeloNegocios\obj\Debug\ModeloNegocios.csproj.AssemblyReference.cache
+C:\Proyectos_C#\EjProyNCapas\ModeloNegocios\obj\Debug\ModeloNegocios.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\EjProyNCapas\ModeloNegocios\obj\Debug\ModeloNegocios.csproj.CopyComplete
+C:\Proyectos_C#\EjProyNCapas\ModeloNegocios\obj\Debug\ModeloNegocios.dll
+C:\Proyectos_C#\EjProyNCapas\ModeloNegocios\obj\Debug\ModeloNegocios.pdb

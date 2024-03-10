@@ -1,0 +1,11 @@
+C:\Proyectos_C#\POOPractica1\POOPractica1\bin\Debug\POOPractica1.exe.config
+C:\Proyectos_C#\POOPractica1\POOPractica1\bin\Debug\POOPractica1.exe
+C:\Proyectos_C#\POOPractica1\POOPractica1\bin\Debug\POOPractica1.pdb
+C:\Proyectos_C#\POOPractica1\POOPractica1\obj\Debug\POOPractica1.csproj.AssemblyReference.cache
+C:\Proyectos_C#\POOPractica1\POOPractica1\obj\Debug\POOPractica1.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos_C#\POOPractica1\POOPractica1\obj\Debug\POOPractica1.Form1.resources
+C:\Proyectos_C#\POOPractica1\POOPractica1\obj\Debug\POOPractica1.Properties.Resources.resources
+C:\Proyectos_C#\POOPractica1\POOPractica1\obj\Debug\POOPractica1.csproj.GenerateResource.cache
+C:\Proyectos_C#\POOPractica1\POOPractica1\obj\Debug\POOPractica1.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\POOPractica1\POOPractica1\obj\Debug\POOPractica1.exe
+C:\Proyectos_C#\POOPractica1\POOPractica1\obj\Debug\POOPractica1.pdb

@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	<TargetFramework>net4.7.2</TargetFramework>
+	  <RootNamespace>Capa_Negocio</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <LangVersion>Latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Capa de datos\Capa de datos.csproj" />
+    <ProjectReference Include="..\Capa Entidad\Capa Entidad.csproj" />
+  </ItemGroup>
+
+</Project>

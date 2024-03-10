@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PuntodeVentaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Inventario">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Producto" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Categoria" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Precio" Type="Double" Nullable="false" />
+    <Property Name="Cantidad" Type="Int32" Nullable="false" />
+    <Property Name="Codigo" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Persona">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="apellidos" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="dni" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="telefono" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="usuario" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="contrasena" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Clientes">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="NombreCliente" />
+      <PropertyRef Name="ApellidoCliente" />
+      <PropertyRef Name="Telefono" />
+      <PropertyRef Name="CorreoC" />
+      <PropertyRef Name="CodigoCliente" />
+      <PropertyRef Name="CantCompras" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreCliente" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ApellidoCliente" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Telefono" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CorreoC" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CodigoCliente" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Descuento" Type="Double" />
+    <Property Name="CantCompras" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Facturacion">
+    <Key>
+      <PropertyRef Name="Id" />
+      <PropertyRef Name="Codigo" />
+      <PropertyRef Name="Producto" />
+      <PropertyRef Name="Precioxunidad" />
+      <PropertyRef Name="Cantidad" />
+      <PropertyRef Name="Cliente" />
+      <PropertyRef Name="CodigoCliente" />
+      <PropertyRef Name="DescuentoCliente" />
+      <PropertyRef Name="Total" />
+      <PropertyRef Name="PrecioTotal" />
+      <PropertyRef Name="Factura" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Codigo" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Producto" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Precioxunidad" Type="Double" Nullable="false" />
+    <Property Name="Cantidad" Type="Int32" Nullable="false" />
+    <Property Name="Cliente" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CodigoCliente" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DescuentoCliente" Type="Double" Nullable="false" />
+    <Property Name="Total" Type="Double" Nullable="false" />
+    <Property Name="PrecioTotal" Type="Double" Nullable="false" annotation:StoreGeneratedPattern="Computed" />
+    <Property Name="Factura" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="PuntodeVentaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Inventario" EntityType="Self.Inventario" />
+    <EntitySet Name="Persona" EntityType="Self.Persona" />
+    <EntitySet Name="Clientes" EntityType="Self.Clientes" />
+    <EntitySet Name="Facturacion" EntityType="Self.Facturacion" />
+  </EntityContainer>
+</Schema>

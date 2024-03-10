@@ -1,0 +1,11 @@
+C:\Proyectos_C#\CrearFichTexto\CrearFichTexto\bin\Debug\CrearFichTexto.exe.config
+C:\Proyectos_C#\CrearFichTexto\CrearFichTexto\bin\Debug\CrearFichTexto.exe
+C:\Proyectos_C#\CrearFichTexto\CrearFichTexto\bin\Debug\CrearFichTexto.pdb
+C:\Proyectos_C#\CrearFichTexto\CrearFichTexto\obj\Debug\CrearFichTexto.csproj.AssemblyReference.cache
+C:\Proyectos_C#\CrearFichTexto\CrearFichTexto\obj\Debug\CrearFichTexto.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos_C#\CrearFichTexto\CrearFichTexto\obj\Debug\CrearFichTexto.Form1.resources
+C:\Proyectos_C#\CrearFichTexto\CrearFichTexto\obj\Debug\CrearFichTexto.Properties.Resources.resources
+C:\Proyectos_C#\CrearFichTexto\CrearFichTexto\obj\Debug\CrearFichTexto.csproj.GenerateResource.cache
+C:\Proyectos_C#\CrearFichTexto\CrearFichTexto\obj\Debug\CrearFichTexto.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\CrearFichTexto\CrearFichTexto\obj\Debug\CrearFichTexto.exe
+C:\Proyectos_C#\CrearFichTexto\CrearFichTexto\obj\Debug\CrearFichTexto.pdb

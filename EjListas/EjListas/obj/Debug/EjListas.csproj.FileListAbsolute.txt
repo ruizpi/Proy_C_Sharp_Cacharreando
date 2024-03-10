@@ -1,0 +1,10 @@
+C:\Proyectos_C#\EjListas\EjListas\bin\Debug\EjListas.exe.config
+C:\Proyectos_C#\EjListas\EjListas\bin\Debug\EjListas.exe
+C:\Proyectos_C#\EjListas\EjListas\bin\Debug\EjListas.pdb
+C:\Proyectos_C#\EjListas\EjListas\obj\Debug\EjListas.csproj.AssemblyReference.cache
+C:\Proyectos_C#\EjListas\EjListas\obj\Debug\EjListas.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos_C#\EjListas\EjListas\obj\Debug\EjListas.Properties.Resources.resources
+C:\Proyectos_C#\EjListas\EjListas\obj\Debug\EjListas.csproj.GenerateResource.cache
+C:\Proyectos_C#\EjListas\EjListas\obj\Debug\EjListas.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\EjListas\EjListas\obj\Debug\EjListas.exe
+C:\Proyectos_C#\EjListas\EjListas\obj\Debug\EjListas.pdb

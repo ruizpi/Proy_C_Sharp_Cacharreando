@@ -1,0 +1,17 @@
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Negocio\bin\Debug\net4.7.2\Capa Negocio.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Negocio\bin\Debug\net4.7.2\Capa Negocio.pdb
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Negocio\bin\Debug\net4.7.2\System.Data.SqlClient.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Negocio\bin\Debug\net4.7.2\Capa Criptografica.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Negocio\bin\Debug\net4.7.2\Capa de datos.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Negocio\bin\Debug\net4.7.2\Capa Entidad.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Negocio\bin\Debug\net4.7.2\Capa de datos.pdb
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Negocio\bin\Debug\net4.7.2\Capa Entidad.pdb
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Negocio\bin\Debug\net4.7.2\Capa Criptografica.pdb
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Negocio\obj\Debug\net4.7.2\Capa Negocio.csproj.AssemblyReference.cache
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Negocio\obj\Debug\net4.7.2\Capa Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Negocio\obj\Debug\net4.7.2\Capa Negocio.AssemblyInfoInputs.cache
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Negocio\obj\Debug\net4.7.2\Capa Negocio.AssemblyInfo.cs
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Negocio\obj\Debug\net4.7.2\Capa Negocio.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Negocio\obj\Debug\net4.7.2\Capa Negocio.csproj.CopyComplete
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Negocio\obj\Debug\net4.7.2\Capa Negocio.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Negocio\obj\Debug\net4.7.2\Capa Negocio.pdb

@@ -1,0 +1,14 @@
+C:\Proyectos_C#\CreateWebServices\CreateWebServices\bin\Debug\CreateWebServices.exe.config
+C:\Proyectos_C#\CreateWebServices\CreateWebServices\bin\Debug\CreateWebServices.exe
+C:\Proyectos_C#\CreateWebServices\CreateWebServices\bin\Debug\CreateWebServices.pdb
+C:\Proyectos_C#\CreateWebServices\CreateWebServices\obj\Debug\CreateWebServices.csproj.AssemblyReference.cache
+C:\Proyectos_C#\CreateWebServices\CreateWebServices\obj\Debug\CreateWebServices.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos_C#\CreateWebServices\CreateWebServices\obj\Debug\CreateWebServices.Properties.Resources.resources
+C:\Proyectos_C#\CreateWebServices\CreateWebServices\obj\Debug\CreateWebServices.csproj.GenerateResource.cache
+C:\Proyectos_C#\CreateWebServices\CreateWebServices\obj\Debug\CreateWebServices.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\CreateWebServices\CreateWebServices\obj\Debug\CreateWebServices.exe
+C:\Proyectos_C#\CreateWebServices\CreateWebServices\obj\Debug\CreateWebServices.pdb
+C:\Proyectos_C#\CreateWebServices\CreateWebServices\obj\Debug\CreateWebServices.Form1.resources
+C:\Proyectos_C#\CreateWebServices\CreateWebServices\bin\Debug\Services.dll
+C:\Proyectos_C#\CreateWebServices\CreateWebServices\bin\Debug\Services.pdb
+C:\Proyectos_C#\CreateWebServices\CreateWebServices\obj\Debug\CreateWebServices.csproj.CopyComplete

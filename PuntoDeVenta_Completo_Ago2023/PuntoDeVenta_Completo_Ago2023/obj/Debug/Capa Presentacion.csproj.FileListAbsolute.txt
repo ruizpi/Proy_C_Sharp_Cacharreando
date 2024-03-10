@@ -1,0 +1,82 @@
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Capa Presentacion.csproj.AssemblyReference.cache
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Capa Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Recursos\Themes\Purple.baml
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Recursos\Themes\Dark.baml
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Recursos\Themes\Blue.baml
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Views\CRUDProductos.baml
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Recursos\WindAdicionales\Adicionar.g.cs
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Views\Login.g.cs
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Views\POS.g.cs
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Views\Productos.g.cs
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Views\AcercaDe.g.cs
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Views\CRUDProductos.g.cs
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Views\CRUDUsuarios.g.cs
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Views\DashBoard.g.cs
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Views\MainWindow.g.cs
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Views\MiCuenta.g.cs
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Views\Usuarios.g.cs
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\App.g.cs
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\PuntoDeVenta_Completo_Ago2023_MarkupCompile.cache
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\PuntoDeVenta_Completo_Ago2023_MarkupCompile.lref
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\PuntoDeVenta_Completo_Ago2023.exe.config
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\PuntoDeVenta_Completo_Ago2023.exe
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\PuntoDeVenta_Completo_Ago2023.pdb
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\Capa Criptografica.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\Capa Entidad.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\Capa Negocio.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\Microsoft.TeamFoundation.Client.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\Microsoft.TeamFoundation.Common.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\Microsoft.TeamFoundation.TestManagement.Client.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\Microsoft.TeamFoundation.TestManagement.Common.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Common.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\System.Data.SqlClient.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\System.Drawing.Common.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\System.Drawing.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\TestApiCore.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\TestApiCoreAcceptanceTests.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\TestApiWpf.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\TestApiWpfAcceptanceTests.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\xunit.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\xunit.extensions.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\Capa de datos.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\Capa Criptografica.pdb
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\Capa Entidad.pdb
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\Capa Negocio.pdb
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\Microsoft.TeamFoundation.Common.xml
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.xml
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\System.Data.SqlClient.xml
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\System.Drawing.Common.xml
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\Capa de datos.pdb
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\App.baml
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Recursos\WindAdicionales\Adicionar.baml
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Views\Login.baml
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Views\POS.baml
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Views\Productos.baml
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Views\AcercaDe.baml
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Views\CRUDUsuarios.baml
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Views\DashBoard.baml
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Views\MainWindow.baml
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Views\MiCuenta.baml
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Views\Usuarios.baml
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\PuntoDeVenta_Completo_Ago2023.g.resources
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\PuntoDeVenta_Completo_Ago2023.Properties.Resources.resources
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Capa Presentacion.csproj.GenerateResource.cache
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Capa Presentacion.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Capa Presentacion.csproj.CopyComplete
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\PuntoDeVenta_Completo_Ago2023.exe
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\PuntoDeVenta_Completo_Ago2023.pdb
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\PuntoDeVenta_Completo_Ago2023_Content.g.cs
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\BouncyCastle.Crypto.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\itextsharp.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\itextsharp.xmlworker.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\itextsharp.xml
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\LiveCharts.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\LiveCharts.Wpf.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\LiveCharts.pdb
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\LiveCharts.xml
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\LiveCharts.Wpf.pdb
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\bin\Debug\LiveCharts.Wpf.xml
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Recursos\WindAdicionales\Error.g.cs
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\PuntoDeVenta_Completo_Ago2023\obj\Debug\Recursos\WindAdicionales\Error.baml

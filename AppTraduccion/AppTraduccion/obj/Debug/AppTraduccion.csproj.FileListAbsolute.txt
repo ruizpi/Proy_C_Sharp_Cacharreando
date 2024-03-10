@@ -1,0 +1,13 @@
+C:\Proyectos_C#\AppTraduccion\AppTraduccion\bin\Debug\AppTraduccion.exe.config
+C:\Proyectos_C#\AppTraduccion\AppTraduccion\bin\Debug\AppTraduccion.exe
+C:\Proyectos_C#\AppTraduccion\AppTraduccion\bin\Debug\AppTraduccion.pdb
+C:\Proyectos_C#\AppTraduccion\AppTraduccion\obj\Debug\AppTraduccion.csproj.AssemblyReference.cache
+C:\Proyectos_C#\AppTraduccion\AppTraduccion\obj\Debug\AppTraduccion.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos_C#\AppTraduccion\AppTraduccion\obj\Debug\AppTraduccion.Form1.resources
+C:\Proyectos_C#\AppTraduccion\AppTraduccion\obj\Debug\AppTraduccion.csproj.GenerateResource.cache
+C:\Proyectos_C#\AppTraduccion\AppTraduccion\obj\Debug\AppTraduccion.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\AppTraduccion\AppTraduccion\obj\Debug\AppTraduccion.exe
+C:\Proyectos_C#\AppTraduccion\AppTraduccion\obj\Debug\AppTraduccion.pdb
+C:\Proyectos_C#\AppTraduccion\AppTraduccion\bin\Debug\es-ES\AppTraduccion.resources.dll
+C:\Proyectos_C#\AppTraduccion\AppTraduccion\obj\Debug\AppTraduccion.Form1.es-ES.resources
+C:\Proyectos_C#\AppTraduccion\AppTraduccion\obj\Debug\es-ES\AppTraduccion.resources.dll

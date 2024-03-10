@@ -1,0 +1,11 @@
+C:\Proyectos_C#\PuntoDeVenta\Negocios\bin\Debug\Negocios.dll
+C:\Proyectos_C#\PuntoDeVenta\Negocios\bin\Debug\Negocios.pdb
+C:\Proyectos_C#\PuntoDeVenta\Negocios\bin\Debug\Datos.dll
+C:\Proyectos_C#\PuntoDeVenta\Negocios\bin\Debug\Datos.pdb
+C:\Proyectos_C#\PuntoDeVenta\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Proyectos_C#\PuntoDeVenta\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\PuntoDeVenta\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Proyectos_C#\PuntoDeVenta\Negocios\obj\Debug\Negocios.dll
+C:\Proyectos_C#\PuntoDeVenta\Negocios\obj\Debug\Negocios.pdb
+C:\Proyectos_C#\PuntoDeVenta\Negocios\bin\Debug\Entidades.dll
+C:\Proyectos_C#\PuntoDeVenta\Negocios\bin\Debug\Entidades.pdb

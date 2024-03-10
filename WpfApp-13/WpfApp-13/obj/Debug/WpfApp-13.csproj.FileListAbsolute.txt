@@ -1,0 +1,16 @@
+C:\Proyectos_C#\WpfApp-13\WpfApp-13\bin\Debug\WpfApp-13.exe.config
+C:\Proyectos_C#\WpfApp-13\WpfApp-13\bin\Debug\WpfApp-13.exe
+C:\Proyectos_C#\WpfApp-13\WpfApp-13\bin\Debug\WpfApp-13.pdb
+C:\Proyectos_C#\WpfApp-13\WpfApp-13\obj\Debug\WpfApp-13.csproj.AssemblyReference.cache
+C:\Proyectos_C#\WpfApp-13\WpfApp-13\obj\Debug\WpfApp-13.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos_C#\WpfApp-13\WpfApp-13\obj\Debug\MainWindow.g.cs
+C:\Proyectos_C#\WpfApp-13\WpfApp-13\obj\Debug\App.g.cs
+C:\Proyectos_C#\WpfApp-13\WpfApp-13\obj\Debug\WpfApp-13_MarkupCompile.cache
+C:\Proyectos_C#\WpfApp-13\WpfApp-13\obj\Debug\WpfApp-13_MarkupCompile.lref
+C:\Proyectos_C#\WpfApp-13\WpfApp-13\obj\Debug\MainWindow.baml
+C:\Proyectos_C#\WpfApp-13\WpfApp-13\obj\Debug\WpfApp-13.g.resources
+C:\Proyectos_C#\WpfApp-13\WpfApp-13\obj\Debug\WpfApp_13.Properties.Resources.resources
+C:\Proyectos_C#\WpfApp-13\WpfApp-13\obj\Debug\WpfApp-13.csproj.GenerateResource.cache
+C:\Proyectos_C#\WpfApp-13\WpfApp-13\obj\Debug\WpfApp-13.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\WpfApp-13\WpfApp-13\obj\Debug\WpfApp-13.exe
+C:\Proyectos_C#\WpfApp-13\WpfApp-13\obj\Debug\WpfApp-13.pdb

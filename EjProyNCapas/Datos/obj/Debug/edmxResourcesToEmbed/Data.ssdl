@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PuntodeVentaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errores durante la generación:
+advertencia 6002: La tabla o vista 'PuntodeVenta.dbo.Clientes' no tiene definida ninguna clave principal. Se ha inferido la clave y la definición se creado como una vista o tabla de solo lectura.-->
+  <EntityType Name="Clientes">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="NombreCliente" />
+      <PropertyRef Name="ApellidoCliente" />
+      <PropertyRef Name="Telefono" />
+      <PropertyRef Name="CorreoC" />
+      <PropertyRef Name="CodigoCliente" />
+      <PropertyRef Name="CantCompras" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NombreCliente" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="ApellidoCliente" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="Telefono" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="CorreoC" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="CodigoCliente" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Descuento" Type="float" />
+    <Property Name="CantCompras" Type="int" Nullable="false" />
+  </EntityType>
+  <!--Errores durante la generación:
+advertencia 6002: La tabla o vista 'PuntodeVenta.dbo.Facturacion' no tiene definida ninguna clave principal. Se ha inferido la clave y la definición se creado como una vista o tabla de solo lectura.-->
+  <EntityType Name="Facturacion">
+    <Key>
+      <PropertyRef Name="Id" />
+      <PropertyRef Name="Codigo" />
+      <PropertyRef Name="Producto" />
+      <PropertyRef Name="Precioxunidad" />
+      <PropertyRef Name="Cantidad" />
+      <PropertyRef Name="Cliente" />
+      <PropertyRef Name="CodigoCliente" />
+      <PropertyRef Name="DescuentoCliente" />
+      <PropertyRef Name="Total" />
+      <PropertyRef Name="PrecioTotal" />
+      <PropertyRef Name="Factura" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Codigo" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="Producto" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="Precioxunidad" Type="float" Nullable="false" />
+    <Property Name="Cantidad" Type="int" Nullable="false" />
+    <Property Name="Cliente" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="CodigoCliente" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="DescuentoCliente" Type="float" Nullable="false" />
+    <Property Name="Total" Type="float" Nullable="false" />
+    <Property Name="PrecioTotal" Type="float" StoreGeneratedPattern="Computed" Nullable="false" />
+    <Property Name="Factura" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Inventario">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Producto" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="Categoria" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="Precio" Type="float" Nullable="false" />
+    <Property Name="Cantidad" Type="int" Nullable="false" />
+    <Property Name="Codigo" Type="nvarchar" MaxLength="250" />
+  </EntityType>
+  <EntityType Name="Persona">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre" Type="nvarchar" MaxLength="250" />
+    <Property Name="apellidos" Type="nvarchar" MaxLength="250" />
+    <Property Name="dni" Type="nvarchar" MaxLength="250" />
+    <Property Name="telefono" Type="nvarchar" MaxLength="250" />
+    <Property Name="usuario" Type="nvarchar" MaxLength="250" />
+    <Property Name="contrasena" Type="nvarchar" MaxLength="250" />
+  </EntityType>
+  <EntityContainer Name="PuntodeVentaModelStoreContainer">
+    <EntitySet Name="Inventario" EntityType="Self.Inventario" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Persona" EntityType="Self.Persona" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Clientes" EntityType="Self.Clientes" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Clientes].[ID] AS [ID], 
+    [Clientes].[NombreCliente] AS [NombreCliente], 
+    [Clientes].[ApellidoCliente] AS [ApellidoCliente], 
+    [Clientes].[Telefono] AS [Telefono], 
+    [Clientes].[CorreoC] AS [CorreoC], 
+    [Clientes].[CodigoCliente] AS [CodigoCliente], 
+    [Clientes].[Descuento] AS [Descuento], 
+    [Clientes].[CantCompras] AS [CantCompras]
+    FROM [dbo].[Clientes] AS [Clientes]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Facturacion" EntityType="Self.Facturacion" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Facturacion].[Id] AS [Id], 
+    [Facturacion].[Codigo] AS [Codigo], 
+    [Facturacion].[Producto] AS [Producto], 
+    [Facturacion].[Precioxunidad] AS [Precioxunidad], 
+    [Facturacion].[Cantidad] AS [Cantidad], 
+    [Facturacion].[Cliente] AS [Cliente], 
+    [Facturacion].[CodigoCliente] AS [CodigoCliente], 
+    [Facturacion].[DescuentoCliente] AS [DescuentoCliente], 
+    [Facturacion].[Total] AS [Total], 
+    [Facturacion].[PrecioTotal] AS [PrecioTotal], 
+    [Facturacion].[Factura] AS [Factura]
+    FROM [dbo].[Facturacion] AS [Facturacion]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

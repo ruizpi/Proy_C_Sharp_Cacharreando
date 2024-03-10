@@ -1,0 +1,6 @@
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Criptografica\bin\Debug\Capa Criptografica.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Criptografica\bin\Debug\Capa Criptografica.pdb
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Criptografica\obj\Debug\Capa Criptografica.csproj.AssemblyReference.cache
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Criptografica\obj\Debug\Capa Criptografica.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Criptografica\obj\Debug\Capa Criptografica.dll
+C:\Proyectos_C#\PuntoDeVenta_Completo_Ago2023\Capa Criptografica\obj\Debug\Capa Criptografica.pdb

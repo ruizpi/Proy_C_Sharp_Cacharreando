@@ -1,0 +1,34 @@
+﻿<Window x:Class="wpf_07.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpf_07"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="20,20,550,20">
+            <Label x:Name="LABNOMBRE" Content="_NOMBRE" HorizontalAlignment="Left" Height="37"  VerticalAlignment="Top" Width="126" Target="{Binding ElementName=EdNombre}"/>
+            <TextBox x:Name="EdNombre" HorizontalAlignment="Left" Height="30"  TextWrapping="Wrap" Text="nombre aqui" VerticalAlignment="Top" Width="200"/>
+            <Label x:Name="LabApellidos" Content="_APELLIDOS" HorizontalAlignment="Left"  VerticalAlignment="Top" Target="{Binding ElementName=EdApellidos}"/>
+            <TextBox x:Name="EdApellidos" HorizontalAlignment="Left" Height="32"  TextWrapping="Wrap" Text="apellidos aqui" VerticalAlignment="Top" Width="199"/>
+            <Label x:Name="LabMensaje" Content="_Mensaje" HorizontalAlignment="Left" Height="24"  VerticalAlignment="Top" Width="130" Target="{Binding ElementName=BtnMensaje}"/>
+            <Button x:Name="BtnMensaje" Content="Mensaje" HorizontalAlignment="Left" Height="27"  VerticalAlignment="Top" Width="178" Click="BtnMensaje_Click"/>
+            <Label Content="Hola mis amigos" HorizontalAlignment="Left" Height="36"  VerticalAlignment="Top" Width="186"/>
+            <Label>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock>Hola</TextBlock>
+                    <TextBlock>a mis desgraciados</TextBlock>
+                </StackPanel>
+            </Label>
+           
+            
+            
+            
+        </StackPanel>
+        
+        
+        
+
+    </Grid>
+</Window>

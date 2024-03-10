@@ -1,0 +1,8 @@
+C:\Proyectos_C#\CURSO_LINQ_4-10\CURSO_LINQ_4-10\bin\Debug\CURSO_LINQ_4-10.exe.config
+C:\Proyectos_C#\CURSO_LINQ_4-10\CURSO_LINQ_4-10\bin\Debug\CURSO_LINQ_4-10.exe
+C:\Proyectos_C#\CURSO_LINQ_4-10\CURSO_LINQ_4-10\bin\Debug\CURSO_LINQ_4-10.pdb
+C:\Proyectos_C#\CURSO_LINQ_4-10\CURSO_LINQ_4-10\obj\Debug\CURSO_LINQ_4-10.csproj.AssemblyReference.cache
+C:\Proyectos_C#\CURSO_LINQ_4-10\CURSO_LINQ_4-10\obj\Debug\CURSO_LINQ_4-10.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos_C#\CURSO_LINQ_4-10\CURSO_LINQ_4-10\obj\Debug\CURSO_LINQ_4-10.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\CURSO_LINQ_4-10\CURSO_LINQ_4-10\obj\Debug\CURSO_LINQ_4-10.exe
+C:\Proyectos_C#\CURSO_LINQ_4-10\CURSO_LINQ_4-10\obj\Debug\CURSO_LINQ_4-10.pdb

@@ -1,0 +1,8 @@
+C:\Proyectos_C#\UnitTestingMsTestIntro\UnitTestingMsTestIntro\obj\Debug\UnitTestingMsTestIntro.csproj.AssemblyReference.cache
+C:\Proyectos_C#\UnitTestingMsTestIntro\UnitTestingMsTestIntro\obj\Debug\UnitTestingMsTestIntro.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos_C#\UnitTestingMsTestIntro\UnitTestingMsTestIntro\obj\Debug\UnitTestingMsTestIntro.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\UnitTestingMsTestIntro\UnitTestingMsTestIntro\bin\Debug\UnitTestingMsTestIntro.exe.config
+C:\Proyectos_C#\UnitTestingMsTestIntro\UnitTestingMsTestIntro\bin\Debug\UnitTestingMsTestIntro.exe
+C:\Proyectos_C#\UnitTestingMsTestIntro\UnitTestingMsTestIntro\bin\Debug\UnitTestingMsTestIntro.pdb
+C:\Proyectos_C#\UnitTestingMsTestIntro\UnitTestingMsTestIntro\obj\Debug\UnitTestingMsTestIntro.exe
+C:\Proyectos_C#\UnitTestingMsTestIntro\UnitTestingMsTestIntro\obj\Debug\UnitTestingMsTestIntro.pdb

@@ -1,0 +1,11 @@
+C:\Proyectos_C#\Insert SQLSERVER\Insert SQLSERVER\bin\Debug\Insert SQLSERVER.exe.config
+C:\Proyectos_C#\Insert SQLSERVER\Insert SQLSERVER\bin\Debug\Insert SQLSERVER.exe
+C:\Proyectos_C#\Insert SQLSERVER\Insert SQLSERVER\bin\Debug\Insert SQLSERVER.pdb
+C:\Proyectos_C#\Insert SQLSERVER\Insert SQLSERVER\obj\Debug\Insert SQLSERVER.csproj.AssemblyReference.cache
+C:\Proyectos_C#\Insert SQLSERVER\Insert SQLSERVER\obj\Debug\Insert SQLSERVER.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos_C#\Insert SQLSERVER\Insert SQLSERVER\obj\Debug\Insert_SQLSERVER.Form1.resources
+C:\Proyectos_C#\Insert SQLSERVER\Insert SQLSERVER\obj\Debug\Insert_SQLSERVER.Properties.Resources.resources
+C:\Proyectos_C#\Insert SQLSERVER\Insert SQLSERVER\obj\Debug\Insert SQLSERVER.csproj.GenerateResource.cache
+C:\Proyectos_C#\Insert SQLSERVER\Insert SQLSERVER\obj\Debug\Insert SQLSERVER.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\Insert SQLSERVER\Insert SQLSERVER\obj\Debug\Insert SQLSERVER.exe
+C:\Proyectos_C#\Insert SQLSERVER\Insert SQLSERVER\obj\Debug\Insert SQLSERVER.pdb

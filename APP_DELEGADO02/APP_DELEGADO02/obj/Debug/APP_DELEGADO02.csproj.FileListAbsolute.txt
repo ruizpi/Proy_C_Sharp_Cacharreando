@@ -1,0 +1,8 @@
+C:\Proyectos_C#\APP_DELEGADO02\APP_DELEGADO02\bin\Debug\APP_DELEGADO02.exe.config
+C:\Proyectos_C#\APP_DELEGADO02\APP_DELEGADO02\bin\Debug\APP_DELEGADO02.exe
+C:\Proyectos_C#\APP_DELEGADO02\APP_DELEGADO02\bin\Debug\APP_DELEGADO02.pdb
+C:\Proyectos_C#\APP_DELEGADO02\APP_DELEGADO02\obj\Debug\APP_DELEGADO02.csproj.AssemblyReference.cache
+C:\Proyectos_C#\APP_DELEGADO02\APP_DELEGADO02\obj\Debug\APP_DELEGADO02.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos_C#\APP_DELEGADO02\APP_DELEGADO02\obj\Debug\APP_DELEGADO02.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\APP_DELEGADO02\APP_DELEGADO02\obj\Debug\APP_DELEGADO02.exe
+C:\Proyectos_C#\APP_DELEGADO02\APP_DELEGADO02\obj\Debug\APP_DELEGADO02.pdb

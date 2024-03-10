@@ -1,0 +1,8 @@
+C:\Proyectos_C#\MicroservicioGetDataJson\MicroservicioGetDataJson\bin\Debug\MicroservicioGetDataJson.exe.config
+C:\Proyectos_C#\MicroservicioGetDataJson\MicroservicioGetDataJson\bin\Debug\MicroservicioGetDataJson.exe
+C:\Proyectos_C#\MicroservicioGetDataJson\MicroservicioGetDataJson\bin\Debug\MicroservicioGetDataJson.pdb
+C:\Proyectos_C#\MicroservicioGetDataJson\MicroservicioGetDataJson\obj\Debug\MicroservicioGetDataJson.csproj.AssemblyReference.cache
+C:\Proyectos_C#\MicroservicioGetDataJson\MicroservicioGetDataJson\obj\Debug\MicroservicioGetDataJson.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos_C#\MicroservicioGetDataJson\MicroservicioGetDataJson\obj\Debug\MicroservicioGetDataJson.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\MicroservicioGetDataJson\MicroservicioGetDataJson\obj\Debug\MicroservicioGetDataJson.exe
+C:\Proyectos_C#\MicroservicioGetDataJson\MicroservicioGetDataJson\obj\Debug\MicroservicioGetDataJson.pdb

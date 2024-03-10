@@ -1,0 +1,11 @@
+C:\Proyectos_C#\ConFormulario2\ConFormulario2\bin\Debug\ConFormulario2.exe.config
+C:\Proyectos_C#\ConFormulario2\ConFormulario2\bin\Debug\ConFormulario2.exe
+C:\Proyectos_C#\ConFormulario2\ConFormulario2\bin\Debug\ConFormulario2.pdb
+C:\Proyectos_C#\ConFormulario2\ConFormulario2\obj\Debug\ConFormulario2.csproj.AssemblyReference.cache
+C:\Proyectos_C#\ConFormulario2\ConFormulario2\obj\Debug\ConFormulario2.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos_C#\ConFormulario2\ConFormulario2\obj\Debug\ConFormulario2.Form1.resources
+C:\Proyectos_C#\ConFormulario2\ConFormulario2\obj\Debug\ConFormulario2.Properties.Resources.resources
+C:\Proyectos_C#\ConFormulario2\ConFormulario2\obj\Debug\ConFormulario2.csproj.GenerateResource.cache
+C:\Proyectos_C#\ConFormulario2\ConFormulario2\obj\Debug\ConFormulario2.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\ConFormulario2\ConFormulario2\obj\Debug\ConFormulario2.exe
+C:\Proyectos_C#\ConFormulario2\ConFormulario2\obj\Debug\ConFormulario2.pdb

@@ -1,0 +1,56 @@
+﻿<Window x:Class="PuntoDeVenta_Completo_Ago2023.Recursos.WindAdicionales.Error"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PuntoDeVenta_Completo_Ago2023.Recursos.WindAdicionales"
+        mc:Ignorable="d"
+        Title="Error" 
+        SizeToContent="Height"
+        WindowStyle="None"
+        Background="Transparent"
+        FontSize="20"
+        AllowsTransparency="true"
+        Height="184" 
+        Width="266"
+        WindowStartupLocation="CenterScreen">
+    <Border CornerRadius="10"
+            BorderThickness="2"
+            BorderBrush="{DynamicResource TextBox.Static.Border}"
+            Background="white"
+            Opacity="0.98">
+        <Grid Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="35"/>
+                <RowDefinition Height="10"/>
+                <RowDefinition/>
+                <RowDefinition Height="10"/>
+                <RowDefinition Height="30"/>
+            </Grid.RowDefinitions>
+            <Label x:Name="Msg"
+                    Content="Error"
+                   Grid.Row="0"
+                   HorizontalAlignment="Center"/>
+            <TextBlock Grid.Row="2"
+                       Width="Auto"
+                       FontSize="12"
+                       TextWrapping="WrapWithOverflow"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontWeight="Semibold"
+                       Name="lblError"/>
+            <Button Name="BtnOk"
+                    Grid.Row="4"
+                    Style="{DynamicResource BtnBuscarStyle}"
+                    Content="OK"
+                    Width="100"
+                    HorizontalAlignment="Center"
+                    Cursor="Hand"
+                    Click="OkError"
+                    IsDefault="True"/>
+
+        </Grid>
+    </Border>
+
+
+</Window>

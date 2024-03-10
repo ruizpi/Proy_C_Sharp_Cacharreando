@@ -1,0 +1,13 @@
+C:\Proyectos_C#\AppTraduccion3\Traduccion\obj\Debug\Traduccion.csproj.AssemblyReference.cache
+C:\Proyectos_C#\AppTraduccion3\Traduccion\obj\Debug\Interop.MSForms.dll
+C:\Proyectos_C#\AppTraduccion3\Traduccion\obj\Debug\Traduccion.csproj.ResolveComReference.cache
+C:\Proyectos_C#\AppTraduccion3\Traduccion\obj\Debug\Traduccion.csproj.GenerateResource.cache
+C:\Proyectos_C#\AppTraduccion3\Traduccion\obj\Debug\Traduccion.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\AppTraduccion3\Traduccion\bin\Debug\Traduccion.dll
+C:\Proyectos_C#\AppTraduccion3\Traduccion\bin\Debug\Traduccion.pdb
+C:\Proyectos_C#\AppTraduccion3\Traduccion\obj\Debug\Traduccion.dll
+C:\Proyectos_C#\AppTraduccion3\Traduccion\obj\Debug\Traduccion.pdb
+C:\Proyectos_C#\AppTraduccion3\Traduccion\bin\Debug\en\Traduccion.resources.dll
+C:\Proyectos_C#\AppTraduccion3\Traduccion\obj\Debug\Traduccion.Traduccion.resource.resources
+C:\Proyectos_C#\AppTraduccion3\Traduccion\obj\Debug\Traduccion.Traduccion.resource.en.resources
+C:\Proyectos_C#\AppTraduccion3\Traduccion\obj\Debug\en\Traduccion.resources.dll

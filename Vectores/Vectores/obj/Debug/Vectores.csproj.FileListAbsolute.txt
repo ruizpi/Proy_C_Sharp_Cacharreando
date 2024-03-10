@@ -1,0 +1,11 @@
+C:\Proyectos_C#\Vectores\Vectores\bin\Debug\Vectores.exe.config
+C:\Proyectos_C#\Vectores\Vectores\bin\Debug\Vectores.exe
+C:\Proyectos_C#\Vectores\Vectores\bin\Debug\Vectores.pdb
+C:\Proyectos_C#\Vectores\Vectores\obj\Debug\Vectores.csproj.AssemblyReference.cache
+C:\Proyectos_C#\Vectores\Vectores\obj\Debug\Vectores.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos_C#\Vectores\Vectores\obj\Debug\Vectores.FMain.resources
+C:\Proyectos_C#\Vectores\Vectores\obj\Debug\Vectores.Properties.Resources.resources
+C:\Proyectos_C#\Vectores\Vectores\obj\Debug\Vectores.csproj.GenerateResource.cache
+C:\Proyectos_C#\Vectores\Vectores\obj\Debug\Vectores.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\Vectores\Vectores\obj\Debug\Vectores.exe
+C:\Proyectos_C#\Vectores\Vectores\obj\Debug\Vectores.pdb

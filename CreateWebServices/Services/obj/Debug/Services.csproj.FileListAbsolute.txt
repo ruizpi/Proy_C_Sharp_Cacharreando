@@ -1,0 +1,6 @@
+C:\Proyectos_C#\CreateWebServices\Services\bin\Debug\Services.dll
+C:\Proyectos_C#\CreateWebServices\Services\bin\Debug\Services.pdb
+C:\Proyectos_C#\CreateWebServices\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Proyectos_C#\CreateWebServices\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\CreateWebServices\Services\obj\Debug\Services.dll
+C:\Proyectos_C#\CreateWebServices\Services\obj\Debug\Services.pdb

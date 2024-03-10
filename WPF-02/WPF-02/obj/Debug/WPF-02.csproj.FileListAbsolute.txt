@@ -1,0 +1,16 @@
+C:\Proyectos_C#\WPF-02\WPF-02\obj\Debug\WPF-02.csproj.AssemblyReference.cache
+C:\Proyectos_C#\WPF-02\WPF-02\obj\Debug\WPF-02.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos_C#\WPF-02\WPF-02\obj\Debug\MainWindow.g.cs
+C:\Proyectos_C#\WPF-02\WPF-02\obj\Debug\App.g.cs
+C:\Proyectos_C#\WPF-02\WPF-02\obj\Debug\WPF-02_MarkupCompile.cache
+C:\Proyectos_C#\WPF-02\WPF-02\obj\Debug\WPF-02_MarkupCompile.lref
+C:\Proyectos_C#\WPF-02\WPF-02\bin\Debug\WPF-02.exe.config
+C:\Proyectos_C#\WPF-02\WPF-02\bin\Debug\WPF-02.exe
+C:\Proyectos_C#\WPF-02\WPF-02\bin\Debug\WPF-02.pdb
+C:\Proyectos_C#\WPF-02\WPF-02\obj\Debug\MainWindow.baml
+C:\Proyectos_C#\WPF-02\WPF-02\obj\Debug\WPF-02.g.resources
+C:\Proyectos_C#\WPF-02\WPF-02\obj\Debug\WPF_02.Properties.Resources.resources
+C:\Proyectos_C#\WPF-02\WPF-02\obj\Debug\WPF-02.csproj.GenerateResource.cache
+C:\Proyectos_C#\WPF-02\WPF-02\obj\Debug\WPF-02.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\WPF-02\WPF-02\obj\Debug\WPF-02.exe
+C:\Proyectos_C#\WPF-02\WPF-02\obj\Debug\WPF-02.pdb

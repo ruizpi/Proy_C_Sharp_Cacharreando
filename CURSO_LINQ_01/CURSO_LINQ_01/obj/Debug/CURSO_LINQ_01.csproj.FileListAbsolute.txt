@@ -1,0 +1,8 @@
+C:\Proyectos_C#\CURSO_LINQ_01\CURSO_LINQ_01\obj\Debug\CURSO_LINQ_01.csproj.AssemblyReference.cache
+C:\Proyectos_C#\CURSO_LINQ_01\CURSO_LINQ_01\obj\Debug\CURSO_LINQ_01.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos_C#\CURSO_LINQ_01\CURSO_LINQ_01\obj\Debug\CURSO_LINQ_01.csproj.CoreCompileInputs.cache
+C:\Proyectos_C#\CURSO_LINQ_01\CURSO_LINQ_01\bin\Debug\CURSO_LINQ_01.exe.config
+C:\Proyectos_C#\CURSO_LINQ_01\CURSO_LINQ_01\bin\Debug\CURSO_LINQ_01.exe
+C:\Proyectos_C#\CURSO_LINQ_01\CURSO_LINQ_01\bin\Debug\CURSO_LINQ_01.pdb
+C:\Proyectos_C#\CURSO_LINQ_01\CURSO_LINQ_01\obj\Debug\CURSO_LINQ_01.exe
+C:\Proyectos_C#\CURSO_LINQ_01\CURSO_LINQ_01\obj\Debug\CURSO_LINQ_01.pdb
